@@ -1,0 +1,32 @@
+$section-space: 3rem;
+
+
+
+$white-color: #ffffff;
+$black-color: #000000;
+$primary-color: blue;
+$secondary-color: rgb(156, 214, 234);
+
+body{
+    overflow: hidden;
+    overflow-y: auto;
+    font-family: "Lato", serif;
+}
+
+
+h1, h2, h3, h4, p, figure, ul{
+    margin: 0;
+    padding: 0;
+}
+
+ul{
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+
+
+

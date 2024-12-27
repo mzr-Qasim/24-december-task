@@ -1,0 +1,22 @@
+@media (max-width:768px){
+    .form-section-inner{
+        .row [class^="col-"] {
+            &:not(:last-child){
+                padding-bottom: 1rem;
+            }
+        
+    
+        }    
+    }
+    .about-us-section{
+        .row [class^="col-"] {
+            &:not(:last-child){
+                padding-bottom: 2rem;
+            }
+        
+    
+        }    
+    }
+
+
+}
